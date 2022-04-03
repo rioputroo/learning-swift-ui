@@ -20,6 +20,7 @@
 		CEF90DBA27F96A6500EA3D41 /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF90DB927F96A6500EA3D41 /* TrailingIconLabelStyle.swift */; };
 		CEF90DBC27F96CF500EA3D41 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF90DBB27F96CF500EA3D41 /* ScrumsView.swift */; };
 		CEF90DBE27F9778100EA3D41 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF90DBD27F9778100EA3D41 /* DetailView.swift */; };
+		CEF90DC027F9882F00EA3D41 /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF90DBF27F9882E00EA3D41 /* DetailEditView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,7 @@
 		CEF90DB927F96A6500EA3D41 /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		CEF90DBB27F96CF500EA3D41 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 		CEF90DBD27F9778100EA3D41 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		CEF90DBF27F9882E00EA3D41 /* DetailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailEditView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 				CEF90DB927F96A6500EA3D41 /* TrailingIconLabelStyle.swift */,
 				CEF90DBB27F96CF500EA3D41 /* ScrumsView.swift */,
 				CEF90DBD27F9778100EA3D41 /* DetailView.swift */,
+				CEF90DBF27F9882E00EA3D41 /* DetailEditView.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -285,6 +288,7 @@
 			files = (
 				CEF90D7F27F9637600EA3D41 /* DailyScrum.swift in Sources */,
 				CEF90DBE27F9778100EA3D41 /* DetailView.swift in Sources */,
+				CEF90DC027F9882F00EA3D41 /* DetailEditView.swift in Sources */,
 				CEF90DBA27F96A6500EA3D41 /* TrailingIconLabelStyle.swift in Sources */,
 				CEF90D7D27F9627200EA3D41 /* Theme.swift in Sources */,
 				CEF90DBC27F96CF500EA3D41 /* ScrumsView.swift in Sources */,
